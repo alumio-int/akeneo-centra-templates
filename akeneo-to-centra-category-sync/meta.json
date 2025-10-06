@@ -1,0 +1,14 @@
+{
+  "name": "Alumio to Centra - Categories Sync",
+  "description": "Sync Categories from Akeneo into Centra.",
+  "source_system": "Alumio",
+  "target_system": "Centra",
+  "tags": [
+    "category",
+    "sync",
+    "akeneo",
+    "centra"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.96.0"
+}
