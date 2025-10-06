@@ -2,14 +2,14 @@
   "name": "Akeneo Entity Brand to Centra Brand Sync",
   "description": "Sync reference entity records type brand from Akeneo into Centra brands.",
   "source_system": "Alumio",
-  "target_system": "CommerceTools",
+  "target_system": "Centra",
   "tags": [
     "brand",
     "entity",
     "record",
     "sync",
     "akeneo",
-    "commercetools",
+    "centra",
     "reference entity",
     "reference entity record"
   ],
