@@ -1,0 +1,16 @@
+{
+  "name": "Alumio to Centra – Product Sync",
+  "description": "Sync full product data from Alumio storage into Centra product & variants using the Centra API.",
+  "source_system": "Alumio",
+  "target_system": "Centra",
+  "tags": [
+    "product",
+    "simple-product",
+    "sync",
+    "akeneo",
+    "centra",
+    "variants"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.96.0"
+}
